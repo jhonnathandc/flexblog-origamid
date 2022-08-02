@@ -1,0 +1,42 @@
+.quality {
+  padding: 70px 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.quality-item {
+  flex: 1 1 300px;
+  margin: 20px 10px;
+}
+
+.quality-title {
+  font: 700 2.25rem/1.36 "Nunito", sans-serif;
+  color: #a4a4a4;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.quality-purple::before,
+.quality-pink::before,
+.quality-blue::before {
+  content: "";
+  display: block;
+  width: 8px;
+  height: 30px;
+  background: #ae81ff;
+  margin-right: 10px;
+}
+
+.quality-pink::before {
+  background: #f9265e;
+}
+
+.quality-blue::before {
+  background: #66d9eb;
+}
+
+.quality-text {
+  font: 400 1.25rem/1.35 "Nunito", sans-serif;
+  color: #7c7c7c;
+}

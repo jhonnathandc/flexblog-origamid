@@ -1,0 +1,14 @@
+.footer-bg {
+  background: #2c70ff;
+}
+
+.footer {
+  padding: 75px 0px;
+}
+
+.footer p {
+  font: 400 2.25rem/1.36 "Nunito", sans-serif;
+  color: #122ab2;
+  text-align: center;
+  margin: 0px 10px;
+}

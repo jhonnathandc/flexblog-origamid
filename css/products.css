@@ -1,0 +1,37 @@
+.products {
+  padding: 60px 10px;
+}
+
+.products .subtitle {
+  margin-bottom: 60px;
+}
+
+.products-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: end;
+}
+
+.products-list li {
+  flex: 1 1 170px;
+}
+
+.products-list h3 {
+  font: 700 3rem/1.35 "Nunito", sans-serif;
+  color: #a4a4a4;
+  background: #f7f7f7;
+  padding: 50px 20px;
+}
+
+.purple {
+  border-top: 8px solid #AE81FF;
+}
+
+.pink {
+  border-top: 8px solid #F9265E;
+}
+
+.blue {
+  border-top: 8px solid #66D9EB;
+}

@@ -1,0 +1,54 @@
+.info-bg {
+  background: #122ab2;
+}
+
+.info,
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.info {
+  padding-top: 10px;
+}
+
+.info li {
+  font: 400 1rem/1.25 "Nunito", sans-serif;
+  color: #ffffff;
+  margin: 0 10px 10px 10px;
+}
+
+.header-bg {
+  background: #2C70FF;
+}
+
+.header {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.header-logo {
+  font: 700 2.25rem/1.36 "Nunito", sans-serif;
+  color: #ffffff;
+  margin: 0px 10px;
+}
+
+.header-menu {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header-menu a {
+  font: 400 1.25rem/1.35 "Nunito", sans-serif;
+  color: #ffffff;
+  padding: 10px;
+  position: relative;
+}
+
+.header-menu a:hover {
+  color: #122ab2;
+}
