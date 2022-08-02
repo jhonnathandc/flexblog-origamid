@@ -4,7 +4,7 @@ Este projeto faz parte dos cursos de [Origamid](https://www.origamid.com), o des
 
 O projeto consiste em um pequeno blog sobre CSS Flexbox.
 
-[Acesse o site aqui](https://jhonnathan-flexblog-origamid.netlify.app/)
+[Acesse o site aqui](https://jhonnathan-flexblog.netlify.app/)
 ## Demonstração
 
 ![Flexbog Demo](https://user-images.githubusercontent.com/82620787/172502339-2e29e411-2a96-4057-b002-201953fcead6.png)
