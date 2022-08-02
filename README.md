@@ -1,37 +1,40 @@
 # Flexbog
 
-This project is part of the [Origamid](https://www.origamid.com) courses, the initial design was done in the 'UI Design for Beginners' class, and the code was done in the 'CSS Flexblox' class.
+Este projeto faz parte dos cursos de [Origamid](https://www.origamid.com), o design inicial foi feito pelo André e o código foi feito na aula 'CSS Flexblox'.
 
-The project consists of a small blog about CSS Flexbox.
+O projeto consiste em um pequeno blog sobre CSS Flexbox.
 
-[Access the website here.](https://jhonnathan-flexblog-origamid.netlify.app/)
-## Demo
+[Acesse o site aqui](https://jhonnathan-flexblog-origamid.netlify.app/)
+## Demonstração
 
 ![Flexbog Demo](https://user-images.githubusercontent.com/82620787/172502339-2e29e411-2a96-4057-b002-201953fcead6.png)
 
-## More Information
+## Mais Informações
 
-It was built from scratch and responsive. HTML was used to create the structure, while only CSS Flexbox was used in the styling.
+Foi construído do zero e responsivo. HTML foi usado para criar a estrutura, enquanto apenas CSS Flexbox foi usado no estilo.
 - HTML
 - CSS
-## Functionalities
+
+## Funcionalidades
 
 - Blog
-## Running Locally
 
+## Ferramentas Usadas
 
+**Front-end:** HTML, CSS
+
+## Rodando Localmente
 
 ```bash
-    # Clone the project
+    # Clone o projeto
     $ git clone https://github.com/jhonnathandc/origamid/tree/main/flexblog
     
-    # Go into the repository
+    # Entre no repositório
 
-    # Go to index.html
+    # Entre em index.html
 ```
 
-
-## Authors
+## Autores
 
 - [Origamid Site](https://www.origamid.com)
 
@@ -39,25 +42,19 @@ It was built from scratch and responsive. HTML was used to create the structure,
 
 - [Origamid Github](https://github.com/origamid)
 
+## Licença
 
-# Hello, I'm Jhonnathan! 👋
+[MIT](https://choosealicense.com/licenses/mit/)
+
+# Olá, meu nome é Jhonnathan! 👋
 
 
-### 🚀 About me
-I'm a front-end developer person...
+### 🚀 Mais sobre mim
+Sou um desenvolvedor Front End...
 
-### 🛠 Skills
+### 🛠 Habilidades
 Javascript, HTML, CSS...
 
 
 ### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnathan-cora-6427661b0/)
-
-
-## Stack
-
-**Front-end:** HTML, CSS
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
