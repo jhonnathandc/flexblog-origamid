@@ -1,4 +1,4 @@
-# Flexbog
+# Flexblog
 
 Este projeto faz parte dos cursos de [Origamid](https://www.origamid.com), o design inicial foi feito pelo André e o código foi feito na aula 'CSS Flexblox'.
 
