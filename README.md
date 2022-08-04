@@ -27,7 +27,7 @@ Foi construído do zero e responsivo. HTML foi usado para criar a estrutura, enq
 
 ```bash
     # Clone o projeto
-    $ git clone https://github.com/jhonnathandc/origamid/tree/main/flexblog
+    $ git clone https://github.com/jhonnathandc/flexblog-origamid
     
     # Entre no repositório
 
